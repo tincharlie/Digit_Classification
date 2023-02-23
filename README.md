@@ -6,3 +6,5 @@ This is the example image
 
 `After completion of that we have to convert that image into text.`
 
+
+> Day 13 and 14 file used to convert the video int0 images and save into the captured folder.
