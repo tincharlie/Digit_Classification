@@ -8,4 +8,5 @@ Here we have the video which will convert into the images and then it will conve
 
 
 > Day 13 and 14 file used to convert the video int0 images and save into the captured folder.
+And
 > In the digit.ipynb and final_proj_cv.ipynb file contains the image to digits.
